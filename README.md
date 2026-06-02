@@ -92,11 +92,10 @@ A collection of Selenium WebDriver exercises and automation scenarios built whil
 
 ## 📬 Let's Connect
 
-💼 LinkedIn: [www.linkedin.com/in/deep-pandya-763648244](http://www.linkedin.com/in/deep-pandya-763648244)
 
-📧 Email: [deeppandya.work@gmail.com](mailto:deeppandya.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deep_Pandya-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/deep-pandya-763648244/)
+[![Email](https://img.shields.io/badge/Email-deeppandya.work@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:deeppandya.work@gmail.com)
 
-📂 GitHub: github.com/Dpandya22-work
 
 ---
 
