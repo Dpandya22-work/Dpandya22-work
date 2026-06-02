@@ -70,13 +70,13 @@ A collection of Selenium WebDriver exercises and automation scenarios built whil
 
 ## 📦 Products I've Tested
 
-| Product        | Type                            |
-| -------------- | ------------------------------- |
-| Katalyst AI    | AI SaaS Platform                |
-| Desh Parivahan | Android / iOS / Web Application |
-| Wishwoods      | E-commerce Platform             |
-| Skyclones      | Web Application                 |
-| Ubrain Studios | Corporate Website               |
+| Product | Type |
+|---|---|
+| [Katalyst AI](https://katalyst.com.my/) | AI SaaS Platform |
+| [Desh Parivahan](https://deshparivahan.in/) | Transport App (Android / iOS / Web) |
+| [Wishwoods](https://wishwoods.com/) | E-commerce |
+| [Skyclones](https://skyclones.com/) | Web Application |
+| [Ubrain Studios](https://ubrainstudios.com/) | Company Website |
 
 ---
 
