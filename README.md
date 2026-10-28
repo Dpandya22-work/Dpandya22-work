@@ -1,6 +1,6 @@
 # Hey, I'm Deep Pandya 👋
 
-QA Engineer & MCA Student based in Rajkot, Gujarat 🇮🇳
+QA Engineer based in Rajkot, Gujarat 🇮🇳
 
 Passionate about software quality, automation testing, and building reliable user experiences.
 
