@@ -13,7 +13,7 @@ Passionate about software quality, automation testing, and building reliable use
 * 🎭 Actively learning and building automation solutions using Playwright and Selenium
 * 🐛 Identified a critical production issue that had remained undetected for over 8 months
 * 📋 Written and executed 840+ test cases across multiple real-world projects
-* 🎓 Pursuing MCA at Marwadi University (NAAC A+)
+* 🎓 Completed MCA at Marwadi University (NAAC A+)
 * 🚀 Currently expanding my skills in Test Automation, CI/CD, and Framework Design
 
 ---
